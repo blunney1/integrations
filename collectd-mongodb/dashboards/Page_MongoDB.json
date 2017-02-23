@@ -21,7 +21,7 @@
         "sf_description": "",
         "sf_page": "MongoDB",
         "sf_type": "Page",
-        "sf_description": "Dashboards about MongoDB.", 
+        "sf_description": "Dashboards about MongoDB.",
         "marshallMemberOf": [
             1,
             2
@@ -1602,7 +1602,7 @@
         "sf_jobMaxDelay": 0,
         "sf_cacheProgram": false,
         "sf_type": "Chart",
-        "sf_chart": "DBs with Lagest Storage, Index, Data Size",
+        "sf_chart": "DBs with Largest Storage, Index, Data Size",
         "sf_disallowCachedProgram": true,
         "sf_jobResolution": 10000,
         "marshallMemberOf": [
@@ -4873,7 +4873,7 @@
         "sf_jobMaxDelay": 0,
         "sf_cacheProgram": false,
         "sf_type": "Chart",
-        "sf_chart": "DBs with Lagest Storage, Index, Data Size",
+        "sf_chart": "DBs with Largest Storage, Index, Data Size",
         "sf_disallowCachedProgram": true,
         "sf_jobResolution": 10000,
         "marshallMemberOf": [
